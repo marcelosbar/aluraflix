@@ -4,7 +4,7 @@ Essa API foi desenvolvida durante o [#alurachallengeback](https://www.alura.com.
 
 No desafio, foi proposto o desenvolvimento de uma API para cadastro de videos, do zero. A escolha de stack do desafio era livre, e escolhi utilizar o Spring.
 
-A API ainda possui melhorias a serem feitas, mas uma demosntração já está disponivel no Heroku em https://marcelosbar-aluraflix.herokuapp.com/videos. O servidor desliga automaticamente após alguns minutos de inatividade, portanto é necessário esperar até 1 minuto para que ele possa inicializar após tentar acessar a URL. Recomendo a utilização do Postman para realização de testes na API.
+A API ainda possui melhorias a serem feitas, uma demosntração já esteve disponivel no Heroku, porém foi desativada após o fim do free tier.
 
 ## Endpoints disponíveis
 Uma documentação mais completa será adicionada em breve, mas para testes simples, é possivel utilizar os endpoints listados abaixo.
@@ -40,5 +40,5 @@ Uma documentação mais completa será adicionada em breve, mas para testes simp
 > Atualiza informações da categoria como ID escolhido.
 
 - DEL /cageorias/{id}
-> Deleta o video com o ID escolhido.
+> Deleta a categoria com o ID escolhido.
 
