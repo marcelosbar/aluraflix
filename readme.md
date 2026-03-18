@@ -1,10 +1,10 @@
 # Aluraflix
 
-Essa API foi desenvolvida durante o [#alurachallengeback](https://www.alura.com.br/challenges/back-end) no período de 19 de Julho a 13 de Agosto.
+Essa API simples foi desenvolvida durante o [#alurachallengeback](https://www.alura.com.br/challenges/back-end) no período de 19 de Julho a 13 de Agosto de 2021.
 
 No desafio, foi proposto o desenvolvimento de uma API para cadastro de videos, do zero. A escolha de stack do desafio era livre, e escolhi utilizar o Spring.
 
-A API ainda possui melhorias a serem feitas, uma demosntração já esteve disponivel no Heroku, porém foi desativada após o fim do free tier.
+Uma demosntração já esteve disponivel no Heroku, porém foi desativada após o fim do free tier.
 
 ## Endpoints disponíveis
 Uma documentação mais completa será adicionada em breve, mas para testes simples, é possivel utilizar os endpoints listados abaixo.
